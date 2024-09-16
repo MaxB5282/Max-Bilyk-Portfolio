@@ -18,16 +18,16 @@
 - Implement strategic marketing initiatives, including targeted social media campaigns, collaborations with influencers, and participation in industry events, resulting in rapid brand recognition and market penetration.
 - Play a pivotal role in building a cohesive team, recruiting and training employees to uphold the company's values of excellence, creativity, and customer satisfaction.
 
-**Data Analyst @ Gain Theory (_June 2023 - September 2023_)
+**Data Analyst @ Gain Theory (_June 2023 - September 2023_)**
 - Collaborate with team members to work on Mixed Market Modeling to understand impacts of media channels on KPIs.
 - Use an in-house data analysis platform to simulate and maximize ROI of marketing spends.
 - Assist in production of presentations to communicate insights from models to stakeholders.
 
-** Database Assistant @ Ramapo College of New Jersey (_September 2022 - May 2024_)
+**Database Assistant @ Ramapo College of New Jersey (_September 2022 - May 2024_)**
 - Collaborate with a team to optimize 40,000+ records of alumni data usability for data analysis.
 - Initiate development of a database management system for 50+ alumni events, improving information on alumni while helping to leverage stronger connections by showing interest in involvement.
 
-** Data Science Tutor @ Ramapo College of New Jersey (_September 2023 - May 2024_)
+**Data Science Tutor @ Ramapo College of New Jersey (_September 2023 - May 2024_)**
 - Host weekly walk-in tutor sessions to help students with any class in the Data Science Cirruculum.
 
 ## Projects
