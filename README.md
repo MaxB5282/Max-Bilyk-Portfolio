@@ -48,6 +48,8 @@ This project uses a lot of data in tandem with one another in order to try and c
 
 ## Honors and Awards
 - [_CCM Students Win Two of Three Awards in National Data Fest Competition_](https://www.ccm.edu/news/ccm-students-win-two-of-three-awards-in-national-data-fest-competition/)
-- Multiple semester Dean's List
+- Vice President of Data Science Club at Ramapo College of New Jersey
+- Multiple semester Dean's List at County College of Morris and Ramapo College of New Jersey
 - Pi Mu Epsilon National Mathematics Honors Society
-- Scholarship Recpient
+- National Society of Leadership and Success
+- Scholarship recpient
