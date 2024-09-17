@@ -7,7 +7,7 @@
 - B.S., Data Science | Ramapo College of New Jersey (_May 2024_)
 - A.S., Mathematics | County College of Morris (_May 2022_)
 - Cetificate of Data Analytics | County College of Morris (_May 2022_)
-- Summer Semester Abroad, Rome | John Cabot University (_July 2023_)
+- Summer Semester Abroad, Rome, Italy | John Cabot University (_July 2023_)
 
 ## Work Experience
 **Data Scientist @ Enclave Digitial (_June 2024 - Present_)**
