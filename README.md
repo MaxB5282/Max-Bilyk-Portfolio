@@ -32,21 +32,18 @@
 
 ## Projects
 ### Data Analysis of Conflict in Ukraine
-[Publication](/asset/ukraine.JPG)
+![Publication](/asset/ukraine.JPG)
 
-The ongoing conflict in Ukraine has been marked by a complex interplay of military strategies, human losses, and societal responses. In an effort to comprehend the evolving dynamics of the situation, this analysis delves into various facets, ranging from equipment losses incurred by the Russian army to the human toll reflected in personnel casualties. Additionally, insights from sentiment analysis of social media and an interactive map displaying incidents resulting in civilian injury or casualties provide a comprehensive perspective on the multifaceted nature of the conflict. By examining trends in equipment losses, personnel casualties, and public sentiment, this study aims to shed light on the strategic implications, societal impact, and the evolving nature of the conflict in Ukraine. Through data-driven insights, we seek to gain a deeper understanding of the complexities inherent in this geopolitical struggle and explore potential avenues for informed decision-making and support for those affected by the conflict.
+The ongoing conflict in Ukraine has been marked by a complex interplay of military strategies, human losses, and societal responses. In an effort to comprehend the evolving dynamics of the situation, this analysis delves into various facets, ranging from equipment losses incurred by the Russian army to the human toll reflected in personnel casualties. Additionally, insights from sentiment analysis of social media and an interactive map displaying incidents resulting in civilian injury or casualties provide a comprehensive perspective on the multifaceted nature of the conflict. By examining trends in equipment losses, personnel casualties, and public sentiment, this study aims to shed light on the strategic implications, societal impact, and the evolving nature of the conflict in Ukraine. Through data-driven insights, we seek to gain a deeper understanding of the complexities inherent in this geopolitical struggle and explore potential avenues for informed decision-making and support for those affected by the conflict. The link to the repository can be found [here](https://github.com/MaxB5282/Ukraine-Conflict-Data-Analaysis)
 
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Comprehensive data analysis on U.S. immigration
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
+## Honors and Awards
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
 - Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
 - Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
