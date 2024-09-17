@@ -33,10 +33,17 @@
 - Host weekly walk-in tutor sessions to help students with any class in the Data Science Cirruculum.
 
 ## Projects
-### Data Analysis of Conflict in Ukraine
+### Analysis of Conflict in Ukraine
 ![Publication](/asset/ukraine.JPG)
 
 The ongoing conflict in Ukraine has been marked by a complex interplay of military strategies, human losses, and societal responses. In an effort to comprehend the evolving dynamics of the situation, this analysis delves into various facets, ranging from equipment losses incurred by the Russian army to the human toll reflected in personnel casualties. Additionally, insights from sentiment analysis of social media and an interactive map displaying incidents resulting in civilian injury or casualties provide a comprehensive perspective on the multifaceted nature of the conflict. By examining trends in equipment losses, personnel casualties, and public sentiment, this study aims to shed light on the strategic implications, societal impact, and the evolving nature of the conflict in Ukraine. Through data-driven insights, we seek to gain a deeper understanding of the complexities inherent in this geopolitical struggle and explore potential avenues for informed decision-making and support for those affected by the conflict. The link to the repository can be found [here](https://github.com/MaxB5282/Ukraine-Conflict-Data-Analaysis)
+
+### Analysis Global Environmental Indicators
+![Publication](/asset/seppala-phones.jpg)
+[Report](/asset/FinalProjectReport.docx.pdf)
+
+Global Environmental Indicators are important measures for monitoring the health of the planet and identifying potential environmental issues. This research examines the Energy and Minerals, Land and Agriculture, Natural Disasters, and Waste categories of the Global Environmental Indicators dataset to provide meaningful insights into the state of the environment. Utilizing data collected by the United Nations Statistics Division from various international sources, including pre-existing sources and self-reported country data. The data is analyzed to identify patterns and trends in the four categories. From the data analysis, it is found that natural disasters occur with varying frequency and intensity across different regions of the world. Energy production is more plentiful in wealthier countries, with many of the largest markets in the world having low percentages of renewable energy production. Waste reporting consistency varies among countries, and agricultural land use and fertilizer consumption show no noticeable patterns. These results conclude that data collected from Global Environmental Indicators can provide valuable insights into the state of the planet, enabling policymakers and regulators to address issues before they reach a critical level. The findings of this research highlight the importance of examining multiple categories of environmental statistics, as issues tend to be interlinked. The research also emphasizes the need for reliable and consistent reporting across countries to ensure accurate analysis and decision-making.
+
 
 ### Social Media Usage and its Relationship with Emotional Well-Being
 ![Publication](/asset/seppala-phones.jpg)
