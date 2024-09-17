@@ -32,7 +32,7 @@
 
 ## Projects
 ### Data Analysis of Conflict in Ukraine
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Publication](/asset/ukraine.JPG)
 
 The ongoing conflict in Ukraine has been marked by a complex interplay of military strategies, human losses, and societal responses. In an effort to comprehend the evolving dynamics of the situation, this analysis delves into various facets, ranging from equipment losses incurred by the Russian army to the human toll reflected in personnel casualties. Additionally, insights from sentiment analysis of social media and an interactive map displaying incidents resulting in civilian injury or casualties provide a comprehensive perspective on the multifaceted nature of the conflict. By examining trends in equipment losses, personnel casualties, and public sentiment, this study aims to shed light on the strategic implications, societal impact, and the evolving nature of the conflict in Ukraine. Through data-driven insights, we seek to gain a deeper understanding of the complexities inherent in this geopolitical struggle and explore potential avenues for informed decision-making and support for those affected by the conflict.
 
