@@ -11,7 +11,7 @@
 **Data Scientist @ Enclave Digitial (_June 2024 - Present_)**
 - Develop a fully intuitive data science pipeline for a deep learning algorithm to help identify misinformation in news articles.
 - Aid in research and development of robust sentiment and bias analysis models.
-- Lead team in data collection efforts including web scraping and use of various API’s
+- Lead team in data collection efforts including web scraping and use of various API’s.
 
 **Founding Employee @ Modern Variety LLC (_Janurary 2024 - Present_)**
 - Spearhead the conceptualization, development, and launch of the company's flagship product line.
