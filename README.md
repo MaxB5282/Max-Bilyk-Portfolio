@@ -5,7 +5,7 @@
 ## Education						       		
 - M.S., Data Science	| Ramapo College of New Jersey (_May 2025_)	 			        		
 - B.S., Data Science | Ramapo College of New Jersey (_May 2024_)
-- A.S. Mathematics | County College of Morris (_May 2022_)
+- A.S., Mathematics | County College of Morris (_May 2022_)
 
 ## Work Experience
 **Data Scientist @ Enclave Digitial (_June 2024 - Present_)**
