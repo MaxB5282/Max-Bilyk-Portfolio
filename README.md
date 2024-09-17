@@ -41,7 +41,10 @@ The ongoing conflict in Ukraine has been marked by a complex interplay of milita
 
 “67% of adolescents report feeling worse about their own lives as a result of their social media use.” Research like this and hints towards some type of relationship between social media and emotional well-being. Using data from AI researcher Emirhan Bulut, an in depth analysis was used to explore this relationship. The analysis contains exploratory data analysis, a classification model to predict dominant behavior based on social media usage and a clustering algorithm to determine if clusters existed within our data. From the analysis, it was determined that people who used instagram logged more time spent on their devices, LinkedIn users with a lot time spent on the app are almost always reporting their emotion as angry, we can very accurately predict someone’s emotion based on their social media usage with features like age, time spent on the platform and likes received as our most important predictors and some distinct clusters do exist within our data.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+## Utilizing machine learning to predict classification of nba players
+![Oklahoma City Thunder](/asset/okc.jpeg)
+
+This project uses a lot of data in tandem with one another in order to try and correctly predict what what skill level players will classify as, based on a certain set of statistics. This project was a lot of fun for me and is one I am most proud of as it was completed early on in my data science jounery. You can find the repository on github [here](https://github.com/MaxB5282/OKC_awards)
 
 ## Honors and Awards
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
