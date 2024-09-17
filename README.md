@@ -40,14 +40,14 @@ The ongoing conflict in Ukraine has been marked by a complex interplay of milita
 
 ### Analysis Global Environmental Indicators
 ![Publication](/asset/globe.jpeg)
-[Report](/asset/FinalProjectReport.docx.pdf)
+[Full Report](/asset/FinalProjectReport.docx.pdf)
 
 Global Environmental Indicators are important measures for monitoring the health of the planet and identifying potential environmental issues. This research examines the Energy and Minerals, Land and Agriculture, Natural Disasters, and Waste categories of the Global Environmental Indicators dataset to provide meaningful insights into the state of the environment. Utilizing data collected by the United Nations Statistics Division from various international sources, including pre-existing sources and self-reported country data. The data is analyzed to identify patterns and trends in the four categories. From the data analysis, it is found that natural disasters occur with varying frequency and intensity across different regions of the world. Energy production is more plentiful in wealthier countries, with many of the largest markets in the world having low percentages of renewable energy production. Waste reporting consistency varies among countries, and agricultural land use and fertilizer consumption show no noticeable patterns. These results conclude that data collected from Global Environmental Indicators can provide valuable insights into the state of the planet, enabling policymakers and regulators to address issues before they reach a critical level. The findings of this research highlight the importance of examining multiple categories of environmental statistics, as issues tend to be interlinked. The research also emphasizes the need for reliable and consistent reporting across countries to ensure accurate analysis and decision-making.
 
 
 ### Social Media Usage and its Relationship with Emotional Well-Being
 ![Publication](/asset/seppala-phones.jpg)
-[Report](/asset/ReportML.docx.pdf)
+[Full Report](/asset/ReportML.docx.pdf)
 
 “67% of adolescents report feeling worse about their own lives as a result of their social media use.” Research like this and hints towards some type of relationship between social media and emotional well-being. Using data from AI researcher Emirhan Bulut, an in depth analysis was used to explore this relationship. The analysis contains exploratory data analysis, a classification model to predict dominant behavior based on social media usage and a clustering algorithm to determine if clusters existed within our data. From the analysis, it was determined that people who used instagram logged more time spent on their devices, LinkedIn users with a lot time spent on the app are almost always reporting their emotion as angry, we can very accurately predict someone’s emotion based on their social media usage with features like age, time spent on the platform and likes received as our most important predictors and some distinct clusters do exist within our data.
 
